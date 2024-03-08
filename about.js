@@ -13,6 +13,6 @@ function handleSubmit(evt) {
 let form = document.querySelector('#contact');
 
 form.addEventListener('submit', handleSubmit);
-
-img.addEventListener('mouseover', Cat)
 alert('Successfully Submitted')
+
+img.addEventListener('mouseover', Cat);
