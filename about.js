@@ -15,4 +15,4 @@ let form = document.querySelector('#contact');
 form.addEventListener('submit', handleSubmit);
 alert('Successfully Submitted')
 
-img.addEventListener('mouseover', Cat);
+img.addEventListener('mouseover', img-Cat);
