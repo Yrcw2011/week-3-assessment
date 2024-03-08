@@ -8,11 +8,16 @@ body {
 }
 
 nav {
-	border-bottom: 2px solid orange;
+	border-bottom: 2px solid rgba(255, 166, 0, 0.822);
 }
 
 ol {
 	padding-left: 0;
+}
+ 
+ul {
+	padding-left: 0;
+	
 }
 
 .Pet {
@@ -21,7 +26,7 @@ ol {
 }
 
 a {
-	color: orange;
+	color: rgba(255, 166, 0, 0.849);
 }
 
 a:visited {
@@ -31,14 +36,20 @@ a:visited {
 
 input {
 	display: block;
+	color: rgba(255, 0, 0, 0.938);
 }
 
 img {
-	max-width: 300px;
+	max-width: 1500px;
 }
 
 .favorite-btn {
 font-size: 30px;
-color: yellow;
+color: rgba(255, 255, 0, 0.932);
 
+}
+
+type:hover {
+	color: rgba(255, 255, 0, 0.904);
+	cursor: arrow;
 }
