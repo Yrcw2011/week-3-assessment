@@ -7,12 +7,18 @@ function handleSubmit(evt) {
 	
 	console.log('form submit');
 	
-}
+} 
 
 
 let form = document.querySelector('#contact');
-
 form.addEventListener('submit', handleSubmit);
 alert('Successfully Submitted')
 
-img.addEventListener('mouseover', img-Cat);
+document.getElementById("contactForm")
+document.getElementById("catImage")
+
+addEventListener(submit, "contact")
+alert("Form submitted successfully!")
+addEventListener("mouseover", catImage)
+alert("Looks like my cat!!")
+
